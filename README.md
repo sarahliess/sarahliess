@@ -16,6 +16,9 @@
   
 
 - ⚡ Fun fact: The name of my loyal rubber duck is Dylan. Both of us started our journey in 2021  
+
+
+- 💜 PS: a11y matters  
   
 
 <br/>  
