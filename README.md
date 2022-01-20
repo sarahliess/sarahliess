@@ -15,7 +15,7 @@
 - 🎨 I'm super passionate about consistent design, style guides and wireframing – preparation is key!  
   
 
-- ⚡ Fun fact: The name of my loyal rubber duck is Dylan. Both of us started our journey in 2021  
+- ⚡ Fun fact: The name of my loyal debugging duck is Dylan. Both of us started our journey in 2021  
 
 
 - 💜 PS: a11y matters  
