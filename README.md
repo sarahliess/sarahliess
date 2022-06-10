@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFaYussX07sRg/profile-displaybackgroundimage-shrink_350_1400/0/1635788240323?e=1648080000&v=beta&t=tlLgoDMSpZK9mp6wk8Do6ohPlbBlGZw_egMunaeSuB8" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center"></div>  
   
 
