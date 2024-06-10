@@ -48,7 +48,9 @@ After having started my journey at WBS as a student myself, progressing to a Jun
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sarahliess&&style=flat-square)  
+<a href="https://linkedin.com/in/linkedin.com/in/sarah-ließ-75ab9a1b5" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
   
 
 <br/>  
