@@ -1,10 +1,7 @@
 ### <div align="center"></div>  
   
 
-- 🚀 I’m currently working as a Junior Full-Stack Web Developer & Junior Web Dev Instructor at [WBS Coding School](https://www.wbscodingschool.com/?utm_term=wbs%20coding%20school&utm_campaign=DE%20%7C%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=1582954711&hsa_cam=8841345998&hsa_grp=92772141007&hsa_ad=501195315359&hsa_src=g&hsa_tgt=kwd-857797241471&hsa_kw=wbs%20coding%20school&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4rcJdIvHTcAL0cEigVt8TmfCB3fXJaXJNL8NfGUBYk60gBOJlUVS-8aAh5jEALw_wcB), after graduating from the [Full-Time Web & App Development Bootcamp](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
-  
-
-- 🌍 Whenever I get a gap, I like to help small businesses in South Africa create meaningful interfaces  
+- 🚀 I’m currently working as Team Lead of our Web & App Development Teaching Team at [WBS Coding School](https://www.wbscodingschool.com/?utm_term=wbs%20coding%20school&utm_campaign=DE%20%7C%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=1582954711&hsa_cam=8841345998&hsa_grp=92772141007&hsa_ad=501195315359&hsa_src=g&hsa_tgt=kwd-857797241471&hsa_kw=wbs%20coding%20school&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4rcJdIvHTcAL0cEigVt8TmfCB3fXJaXJNL8NfGUBYk60gBOJlUVS-8aAh5jEALw_wcB), after graduating from the [Full-Time Web & App Development Bootcamp](https://www.wbscodingschool.com/web-app-development-bootcamp/)  
   
 
 - 🎨 I'm super passionate about consistent design, style guides and wireframing – preparation is key!  
